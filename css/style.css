@@ -104,7 +104,7 @@ a {
   height: 900px;
 }
 
-.contenedor-producto {
+.contenedor-productos {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -113,13 +113,13 @@ a {
   background-color: #fff;
   color: #191919;
 }
-.contenedor-producto div {
+.contenedor-productos div {
   padding: 10px;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
-.contenedor-producto div a {
+.contenedor-productos div butoon {
   width: 100%;
   padding: 10px;
   background-color: #191919;
@@ -127,7 +127,7 @@ a {
   text-align: center;
   text-decoration: none;
 }
-.contenedor-producto img {
+.contenedor-productos img {
   width: 100%;
   height: 400px;
   object-fit: cover;
@@ -145,7 +145,7 @@ h4{
   font-family: 80px;
 }
 
-.contener-carrito{
+.contenedor-carrito{
   display: flex;
   flex-direction:column;
   gap: 1.5rem;
